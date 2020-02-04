@@ -1,0 +1,3 @@
+[submodule "debian/sqdr-debian"]
+	path = debian/sqdr-debian
+	url = git@github.com:SquadroneSystem/sqdr-debian.git
